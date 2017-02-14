@@ -99,8 +99,8 @@ var Earth = function Earth(el, data) {
     light.target = camera;
     // Earth
     THREE.ImageUtils.crossOrigin = '';
-    var earthLights = THREE.ImageUtils.loadTexture('../img/earth-lights.jpg');
-    var earthBump = THREE.ImageUtils.loadTexture('../img/earth-bump.jpg');
+    var earthLights = THREE.ImageUtils.loadTexture('assets/img/earth-lights.jpg');
+    var earthBump = THREE.ImageUtils.loadTexture('assets/img/earth-bump.jpg');
     earthLights.minFilter = THREE.LinearFilter;
     earthBump.minFilter = THREE.LinearFilter;
     //燈光
