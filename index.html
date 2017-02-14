@@ -13,16 +13,25 @@
     <script src="assets/js/3rdparty/extras.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
     <script src="assets/js/3rdparty/typed.js" type="text/javascript"></script>
+    <script src="/socket.io/socket.io.js" type="text/javascript"></script>
+    <script src="app.js" type="text/javascript"></script>
     <script>
       $(function() {
-        $(".info").typed({
-          strings: [
-            "welcome", "3D Earth Data"
-          ],
-          typeSpeed: 100
-        });
+      $(".info").typed({
+      strings: ["Hello ,Welcome","3D Earth Data."],
+      typeSpeed: 100
+      });
       });
     </script>
-    <script src="assets/js/index.js"></script>
+    <div class="test">
+      <input id="tX">
+      <p></p>
+      <input id="tY">
+      <p></p>
+      <input id="rX">
+      <p> </p>
+      <input id="touch">
+    </div>
+    <script src="assets/js/TV.js"></script>
   </body>
 </html>
