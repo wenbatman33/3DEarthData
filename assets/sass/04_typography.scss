@@ -1,0 +1,69 @@
+h1,h2,h3{
+    font-family: inherit;
+    line-height: 48px;
+    vertical-align: middle;
+    color: inherit;
+}
+h4,h5,h6 {
+    font-family: inherit;
+    line-height: 24px;
+    vertical-align: middle;
+    color: inherit;
+}
+h1 {
+    font-size: 36px;
+}
+h2{
+    font-size: 30px;
+}
+h3 {
+    font-size: 24px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+h6 {
+    font-size: 14px;
+}
+p,span{
+	font-size: 14px;
+	line-height: 24px;
+}
+b,strong{
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 24px;
+}
+i,em{
+	font-size: 14px;
+	line-height: 24px;
+}
+small{
+	font-size: 12px;
+	line-height: 24px;
+}
+br{
+	display: block;
+	line-height:22px;
+}
+.ta_right{
+	text-align: right !important;
+}
+.ta_left{
+	text-align: left !important;
+}
+.ta_center{
+	text-align: center !important;
+}
+.table_right{
+	text-align: right;
+}
+.table_left{
+	text-align: left;
+}
+.table_center{
+	text-align: center;
+}

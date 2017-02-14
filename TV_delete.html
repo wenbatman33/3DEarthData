@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>TutorABC 監控牆面</title>
+    <link rel="stylesheet" href="assets/css/normalize.css">
+    <link rel="stylesheet" href="assets/css/app.css">
+  </head>
+  <body>
+    <div id="typed" class="info"></div>
+    <div id="container"></div>
+    <script src="assets/js/3rdparty/three.min.js"></script>
+    <script src="assets/js/3rdparty/extras.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="assets/js/3rdparty/typed.js" type="text/javascript"></script>
+    <script src="/socket.io/socket.io.js" type="text/javascript"></script>
+    <script src="app.js" type="text/javascript"></script>
+    <script>
+      $(function() {
+      $(".info").typed({
+      strings: ["Hello ,Welcome","3D Earth Data."],
+      typeSpeed: 100
+      });
+      });
+    </script>
+    <div class="test">
+      <input id="tX">
+      <p></p>
+      <input id="tY">
+      <p></p>
+      <input id="rX">
+      <p> </p>
+      <input id="touch">
+    </div>
+    <script src="assets/js/TV_delete.js"></script>
+  </body>
+</html>

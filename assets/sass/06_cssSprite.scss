@@ -1,0 +1,18 @@
+@mixin cssSprite( $spriteVals ) {
+  width: nth( $spriteVals, 1 );
+  height: nth( $spriteVals, 2 );
+  background-repeat: no-repeat;
+  background: url($cssSprite-svg);
+  background: url($cssSprite-png)\0;
+  *background: url($cssSprite-png);
+  background-position: nth( $spriteVals, 4 ) nth( $spriteVals, 5 );
+  vertical-align: middle;
+}
+$cssSprite-path: '../img/cssSprite.svg';
+$cssSprite-svg: '../img/cssSprite.svg';
+$cssSprite-png: '../img/cssSprite.png';
+//////////////////////////////////////////////////////////////
+//以上不用更改
+//////////////////////////////////////////////////////////////
+$logo_light: 140px 29px $cssSprite-path 0px 0px;
+$logo_dark: 140px 29px $cssSprite-path 0px -30px;

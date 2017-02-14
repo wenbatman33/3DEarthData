@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>TutorABC 監控牆面</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        var flickerAPI = "assets/js/consultant_info.js";
+        var data = [
+          {
+            "id": "298",
+            "lon": "-77.05",
+            "la": "-12.05",
+            "city": "Lima",
+            "fname": "Victor",
+            "type": "2"
+          }
+        ];
+        $.getJSON(flickerAPI, {}).done(function(JSONdata) {
+          data = JSONdata;
+          //console.log(JSONdata);
+          console.log("data:" + data);
+        });
+      });
+    </script>
+  </head>
+  <body>
+    <button>获得 JSON 数据</button>
+    <p></p>
+  </body>
+</html>

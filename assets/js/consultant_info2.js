@@ -1,0 +1,1744 @@
+[{
+    "id": "3141",
+    "lon": "-101.35",
+    "la": "20.6833",
+    "city": "Irapuato",
+    "fname": "Jordan",
+    "type": "2"
+}, {
+    "id": "3872",
+    "lon": "-101.35",
+    "la": "20.6833",
+    "city": "Irapuato",
+    "fname": "Jasmine",
+    "type": "2"
+}, {
+    "id": "2475",
+    "lon": "-101.25",
+    "la": "21.0167",
+    "city": "Guanajuato",
+    "fname": "Sarai",
+    "type": "2"
+}, {
+    "id": "2859",
+    "lon": "-100.9833",
+    "la": "22.15",
+    "city": "San Luis Potosí",
+    "fname": "Benjamin",
+    "type": "2"
+}, {
+    "id": "3231",
+    "lon": "-100.9833",
+    "la": "22.15",
+    "city": "San Luis Potosí",
+    "fname": "Daniel",
+    "type": "2"
+}, {
+    "id": "3526",
+    "lon": "-100.9833",
+    "la": "22.15",
+    "city": "San Luis Potosí",
+    "fname": "Daniel",
+    "type": "2"
+}, {
+    "id": "1832",
+    "lon": "-100.8667",
+    "la": "26.1167",
+    "city": "San Nicolás",
+    "fname": "Brooke",
+    "type": "2"
+}, {
+    "id": "1316",
+    "lon": "-100.8167",
+    "la": "20.5167",
+    "city": "Celaya",
+    "fname": "Reuben",
+    "type": "2"
+}, {
+    "id": "1337",
+    "lon": "-100.3833",
+    "la": "20.6",
+    "city": "Querétaro",
+    "fname": "Douglas",
+    "type": "2"
+}, {
+    "id": "1882",
+    "lon": "-100.3167",
+    "la": "25.6667",
+    "city": "Monterrey",
+    "fname": "Michael",
+    "type": "2"
+}, {
+    "id": "3999",
+    "lon": "-100.3",
+    "la": "25.75",
+    "city": "San Nicolás De Los Garza",
+    "fname": "Antonio",
+    "type": "2"
+}, {
+    "id": "1958",
+    "lon": "-100.2119",
+    "la": "21.2108",
+    "city": "Victoria",
+    "fname": "Jacob",
+    "type": "2"
+}, {
+    "id": "1470",
+    "lon": "-100",
+    "la": "20.3833",
+    "city": "San Juan Del Río",
+    "fname": "Michael",
+    "type": "2"
+}, {
+    "id": "1099",
+    "lon": "-99.8313",
+    "la": "29.3566",
+    "city": "Uvalde",
+    "fname": "Jeffrey",
+    "type": "2"
+}, {
+    "id": "4041",
+    "lon": "-99.5167",
+    "la": "27.5",
+    "city": "Nuevo Laredo",
+    "fname": "Olga",
+    "type": "2"
+}, {
+    "id": "3979",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Jay",
+    "type": "2"
+}, {
+    "id": "3959",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Cesar",
+    "type": "2"
+}, {
+    "id": "4496",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Marcela",
+    "type": "2"
+}, {
+    "id": "4511",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Daniela",
+    "type": "2"
+}, {
+    "id": "4269",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Conan",
+    "type": "2"
+}, {
+    "id": "4305",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Guillermo",
+    "type": "2"
+}, {
+    "id": "5071",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Dana",
+    "type": "2"
+}, {
+    "id": "4619",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Miriam",
+    "type": "2"
+}, {
+    "id": "4597",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Charlene",
+    "type": "2"
+}, {
+    "id": "4638",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Juan",
+    "type": "2"
+}, {
+    "id": "5333",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Josue",
+    "type": "2"
+}, {
+    "id": "3756",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Jannette",
+    "type": "2"
+}, {
+    "id": "3764",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Juventino",
+    "type": "2"
+}, {
+    "id": "3823",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Georgina",
+    "type": "2"
+}, {
+    "id": "2893",
+    "lon": "-99.2383",
+    "la": "19.4794",
+    "city": "Naucalpan",
+    "fname": "Araceli",
+    "type": "2"
+}, {
+    "id": "5357",
+    "lon": "-99.2217",
+    "la": "19.5269",
+    "city": "Tlalnepantla",
+    "fname": "Dijone",
+    "type": "2"
+}, {
+    "id": "4470",
+    "lon": "-99.2217",
+    "la": "19.5269",
+    "city": "Tlalnepantla",
+    "fname": "Casey",
+    "type": "2"
+}, {
+    "id": "4400",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Abril",
+    "type": "2"
+}, {
+    "id": "4358",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Sylvia",
+    "type": "2"
+}, {
+    "id": "4226",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Pablo",
+    "type": "2"
+}, {
+    "id": "3987",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Ilancueitl",
+    "type": "2"
+}, {
+    "id": "4608",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Kahlya",
+    "type": "2"
+}, {
+    "id": "4657",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Jorge",
+    "type": "2"
+}, {
+    "id": "4732",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Melissa",
+    "type": "2"
+}, {
+    "id": "4803",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Hanssel",
+    "type": "2"
+}, {
+    "id": "4849",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Yolanda",
+    "type": "2"
+}, {
+    "id": "4854",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Victor",
+    "type": "2"
+}, {
+    "id": "5413",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Brandon",
+    "type": "2"
+}, {
+    "id": "5405",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Nathan",
+    "type": "2"
+}, {
+    "id": "2907",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Priscila",
+    "type": "2"
+}, {
+    "id": "2904",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "April",
+    "type": "2"
+}, {
+    "id": "2990",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Paula",
+    "type": "2"
+}, {
+    "id": "3081",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Jennifer",
+    "type": "2"
+}, {
+    "id": "2456",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Alejandro",
+    "type": "2"
+}, {
+    "id": "2593",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Sophie",
+    "type": "2"
+}, {
+    "id": "2366",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Wences",
+    "type": "2"
+}, {
+    "id": "2243",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Rodolfo",
+    "type": "2"
+}, {
+    "id": "2205",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Keziah",
+    "type": "2"
+}, {
+    "id": "3775",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Arleen",
+    "type": "2"
+}, {
+    "id": "3567",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "David",
+    "type": "2"
+}, {
+    "id": "3289",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Ana",
+    "type": "2"
+}, {
+    "id": "1513",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Curtis",
+    "type": "2"
+}, {
+    "id": "1530",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Jorge",
+    "type": "2"
+}, {
+    "id": "1896",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Tracy",
+    "type": "2"
+}, {
+    "id": "1648",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Natasha",
+    "type": "2"
+}, {
+    "id": "1702",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "Benyair",
+    "type": "2"
+}, {
+    "id": "1745",
+    "lon": "-99.1386",
+    "la": "19.4342",
+    "city": "Mexico",
+    "fname": "rachel",
+    "type": "2"
+}, {
+    "id": "3282",
+    "lon": "-157.9371",
+    "la": "21.4219",
+    "city": "Pearl City",
+    "fname": "Marie",
+    "type": "2"
+}, {
+    "id": "3256",
+    "lon": "-124.3167",
+    "la": "49.3",
+    "city": "Parksville",
+    "fname": "Mary",
+    "type": "2"
+}, {
+    "id": "750",
+    "lon": "-124.1477",
+    "la": "43.374",
+    "city": "Coos Bay",
+    "fname": "Isabella",
+    "type": "2"
+}, {
+    "id": "2555",
+    "lon": "-123.9098",
+    "la": "46.1221",
+    "city": "Warrenton",
+    "fname": "Daniel",
+    "type": "2"
+}, {
+    "id": "1412",
+    "lon": "-123.85",
+    "la": "49.1833",
+    "city": "Gabriola",
+    "fname": "David",
+    "type": "2"
+}, {
+    "id": "2554",
+    "lon": "-123.5",
+    "la": "49.4",
+    "city": "Gibsons",
+    "fname": "Ginny",
+    "type": "2"
+}, {
+    "id": "723",
+    "lon": "-123.3377",
+    "la": "44.7841",
+    "city": "Monmouth",
+    "fname": "Lindy",
+    "type": "2"
+}, {
+    "id": "900",
+    "lon": "-123.2977",
+    "la": "44.5577",
+    "city": "Corvallis",
+    "fname": "Marisol",
+    "type": "2"
+}, {
+    "id": "594",
+    "lon": "-123.1333",
+    "la": "49.25",
+    "city": "Vancouver",
+    "fname": "Stella",
+    "type": "2"
+}, {
+    "id": "1144",
+    "lon": "-123.1333",
+    "la": "49.25",
+    "city": "Vancouver",
+    "fname": "Ivy",
+    "type": "2"
+}, {
+    "id": "2155",
+    "lon": "-123.1333",
+    "la": "49.25",
+    "city": "Vancouver",
+    "fname": "Jessica",
+    "type": "2"
+}, {
+    "id": "4610",
+    "lon": "-123.1333",
+    "la": "49.25",
+    "city": "Vancouver",
+    "fname": "Clement",
+    "type": "2"
+}, {
+    "id": "3750",
+    "lon": "-123.0825",
+    "la": "44.069",
+    "city": "Eugene",
+    "fname": "Carolyn",
+    "type": "2"
+}, {
+    "id": "765",
+    "lon": "-123.0613",
+    "la": "48.0656",
+    "city": "Sequim",
+    "fname": "Robert",
+    "type": "2"
+}, {
+    "id": "549",
+    "lon": "-122.9667",
+    "la": "49.1667",
+    "city": "Richmond",
+    "fname": "Denny",
+    "type": "2"
+}, {
+    "id": "683",
+    "lon": "-122.9667",
+    "la": "49.1667",
+    "city": "Richmond",
+    "fname": "Cary",
+    "type": "2"
+}, {
+    "id": "180",
+    "lon": "-122.9667",
+    "la": "49.1667",
+    "city": "Richmond",
+    "fname": "Megan",
+    "type": "2"
+}, {
+    "id": "1121",
+    "lon": "-122.9667",
+    "la": "49.1667",
+    "city": "Richmond",
+    "fname": "Anny",
+    "type": "2"
+}, {
+    "id": "3614",
+    "lon": "-122.9667",
+    "la": "49.1667",
+    "city": "Richmond",
+    "fname": "Trevor",
+    "type": "2"
+}, {
+    "id": "3497",
+    "lon": "-122.95",
+    "la": "49.25",
+    "city": "Burnaby",
+    "fname": "Jamie",
+    "type": "2"
+}, {
+    "id": "808",
+    "lon": "-122.95",
+    "la": "49.25",
+    "city": "Burnaby",
+    "fname": "Colleen",
+    "type": "2"
+}, {
+    "id": "3015",
+    "lon": "-122.9167",
+    "la": "49.2167",
+    "city": "New Westminster",
+    "fname": "Graeme",
+    "type": "2"
+}, {
+    "id": "3774",
+    "lon": "-122.9063",
+    "la": "44.0797",
+    "city": "Springfield",
+    "fname": "John",
+    "type": "2"
+}, {
+    "id": "399",
+    "lon": "-122.8501",
+    "la": "46.8427",
+    "city": "Tenino",
+    "fname": "Linda",
+    "type": "2"
+}, {
+    "id": "728",
+    "lon": "-122.8213",
+    "la": "49.1364",
+    "city": "Surrey",
+    "fname": "Annie",
+    "type": "2"
+}, {
+    "id": "3870",
+    "lon": "-122.8213",
+    "la": "49.1364",
+    "city": "Surrey",
+    "fname": "Carole",
+    "type": "2"
+}, {
+    "id": "1150",
+    "lon": "-122.6827",
+    "la": "45.5332",
+    "city": "Portland",
+    "fname": "Phoebe",
+    "type": "2"
+}, {
+    "id": "2733",
+    "lon": "-122.6802",
+    "la": "45.5171",
+    "city": "Portland",
+    "fname": "Jacob",
+    "type": "2"
+}, {
+    "id": "1460",
+    "lon": "-122.6063",
+    "la": "45.6676",
+    "city": "Vancouver",
+    "fname": "Cristina",
+    "type": "2"
+}, {
+    "id": "1487",
+    "lon": "-122.6063",
+    "la": "45.6676",
+    "city": "Vancouver",
+    "fname": "Brad",
+    "type": "2"
+}, {
+    "id": "2372",
+    "lon": "-122.5341",
+    "la": "45.445",
+    "city": "Happy Valley",
+    "fname": "Levi",
+    "type": "2"
+}, {
+    "id": "1085",
+    "lon": "-122.4959",
+    "la": "45.4677",
+    "city": "Portland",
+    "fname": "Michael",
+    "type": "2"
+}, {
+    "id": "1211",
+    "lon": "-122.4294",
+    "la": "37.7645",
+    "city": "San Francisco",
+    "fname": "Regina",
+    "type": "2"
+}, {
+    "id": "2596",
+    "lon": "-122.4294",
+    "la": "37.7645",
+    "city": "San Francisco",
+    "fname": "Bethany",
+    "type": "2"
+}, {
+    "id": "3592",
+    "lon": "-122.3933",
+    "la": "37.7697",
+    "city": "San Francisco",
+    "fname": "Stephanie",
+    "type": "2"
+}, {
+    "id": "2168",
+    "lon": "-122.3326",
+    "la": "47.5951",
+    "city": "Seattle",
+    "fname": "Cecilia",
+    "type": "2"
+}, {
+    "id": "2697",
+    "lon": "-122.3326",
+    "la": "47.5951",
+    "city": "Seattle",
+    "fname": "Jennifer",
+    "type": "2"
+}, {
+    "id": "711",
+    "lon": "-122.3326",
+    "la": "47.5951",
+    "city": "Seattle",
+    "fname": "Robert",
+    "type": "2"
+}, {
+    "id": "2106",
+    "lon": "-122.2039",
+    "la": "48.3967",
+    "city": "Mount Vernon",
+    "fname": "Courtney",
+    "type": "2"
+}, {
+    "id": "553",
+    "lon": "-122.1653",
+    "la": "47.6201",
+    "city": "Bellevue",
+    "fname": "Jean",
+    "type": "2"
+}, {
+    "id": "3534",
+    "lon": "-122.1423",
+    "la": "37.4225",
+    "city": "Palo Alto",
+    "fname": "Andronica",
+    "type": "2"
+}, {
+    "id": "1225",
+    "lon": "-122.089",
+    "la": "37.1086",
+    "city": "Ben Lomond",
+    "fname": "Cindy",
+    "type": "2"
+}, {
+    "id": "803",
+    "lon": "-122.073",
+    "la": "37.6503",
+    "city": "Hayward",
+    "fname": "Katherine",
+    "type": "2"
+}, {
+    "id": "3544",
+    "lon": "-122.0574",
+    "la": "37.4192",
+    "city": "Mountain View",
+    "fname": "Salima",
+    "type": "2"
+}, {
+    "id": "3640",
+    "lon": "-121.8962",
+    "la": "37.5155",
+    "city": "Fremont",
+    "fname": "James",
+    "type": "2"
+}, {
+    "id": "3235",
+    "lon": "-121.8915",
+    "la": "37.3338",
+    "city": "San Jose",
+    "fname": "Rebeca",
+    "type": "2"
+}, {
+    "id": "2980",
+    "lon": "-121.8915",
+    "la": "37.3338",
+    "city": "San Jose",
+    "fname": "Marcela",
+    "type": "2"
+}, {
+    "id": "4505",
+    "lon": "-121.8568",
+    "la": "37.3073",
+    "city": "San Jose",
+    "fname": "Kathryn Mae",
+    "type": "2"
+}, {
+    "id": "2844",
+    "lon": "-121.8436",
+    "la": "37.2722",
+    "city": "San Jose",
+    "fname": "Anthoney",
+    "type": "2"
+}, {
+    "id": "3164",
+    "lon": "-121.6158",
+    "la": "39.0579",
+    "city": "Yuba City",
+    "fname": "Rianna",
+    "type": "2"
+}, {
+    "id": "829",
+    "lon": "-121.3248",
+    "la": "38.6262",
+    "city": "Carmichael",
+    "fname": "Elaine",
+    "type": "2"
+}, {
+    "id": "278",
+    "lon": "-121.3248",
+    "la": "38.6262",
+    "city": "Carmichael",
+    "fname": "Melissa",
+    "type": "2"
+}, {
+    "id": "3787",
+    "lon": "-121.3116",
+    "la": "38.6932",
+    "city": "Citrus Heights",
+    "fname": "Katie",
+    "type": "2"
+}, {
+    "id": "1698",
+    "lon": "-121.0221",
+    "la": "40.2631",
+    "city": "Westwood",
+    "fname": "Ashley",
+    "type": "2"
+}, {
+    "id": "3456",
+    "lon": "-120.9768",
+    "la": "38.6153",
+    "city": "Shingle Springs",
+    "fname": "Steven",
+    "type": "2"
+}, {
+    "id": "3260",
+    "lon": "-120.6591",
+    "la": "35.2678",
+    "city": "San Luis Obispo",
+    "fname": "Evhan",
+    "type": "2"
+}, {
+    "id": "2467",
+    "lon": "-120.6591",
+    "la": "35.2678",
+    "city": "San Luis Obispo",
+    "fname": "Heather",
+    "type": "2"
+}, {
+    "id": "2998",
+    "lon": "-120.0139",
+    "la": "38.8479",
+    "city": "South Lake Tahoe",
+    "fname": "Tim",
+    "type": "2"
+}, {
+    "id": "2402",
+    "lon": "-119.9295",
+    "la": "36.7967",
+    "city": "Fresno",
+    "fname": "Iris",
+    "type": "2"
+}, {
+    "id": "3132",
+    "lon": "-119.7697",
+    "la": "36.8874",
+    "city": "Fresno",
+    "fname": "Theresa",
+    "type": "2"
+}, {
+    "id": "3410",
+    "lon": "-118.433",
+    "la": "34.4187",
+    "city": "Canyon Country",
+    "fname": "Lisa",
+    "type": "2"
+}, {
+    "id": "322",
+    "lon": "-118.4008",
+    "la": "34.1648",
+    "city": "Valley Village",
+    "fname": "Philip",
+    "type": "2"
+}, {
+    "id": "2022",
+    "lon": "-118.3502",
+    "la": "34.069",
+    "city": "Los Angeles",
+    "fname": "Daniel",
+    "type": "2"
+}, {
+    "id": "458",
+    "lon": "-118.3146",
+    "la": "34.1855",
+    "city": "Burbank",
+    "fname": "Sandra",
+    "type": "2"
+}, {
+    "id": "760",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Stacy",
+    "type": "2"
+}, {
+    "id": "681",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Laurie",
+    "type": "2"
+}, {
+    "id": "1930",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Diana",
+    "type": "2"
+}, {
+    "id": "1280",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Anthony",
+    "type": "2"
+}, {
+    "id": "1365",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Helmut Peter",
+    "type": "2"
+}, {
+    "id": "980",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Pai",
+    "type": "2"
+}, {
+    "id": "3575",
+    "lon": "-118.2988",
+    "la": "34.0416",
+    "city": "Los Angeles",
+    "fname": "Shady",
+    "type": "2"
+}, {
+    "id": "3578",
+    "lon": "-118.2642",
+    "la": "34.053",
+    "city": "Los Angeles",
+    "fname": "Joshua",
+    "type": "2"
+}, {
+    "id": "2822",
+    "lon": "-118.2642",
+    "la": "34.053",
+    "city": "Los Angeles",
+    "fname": "Javier",
+    "type": "2"
+}, {
+    "id": "465",
+    "lon": "-118.1575",
+    "la": "34.7297",
+    "city": "Lancaster",
+    "fname": "Cesar",
+    "type": "2"
+}, {
+    "id": "2531",
+    "lon": "-118.1362",
+    "la": "34.2005",
+    "city": "Altadena",
+    "fname": "Daniel",
+    "type": "2"
+}, {
+    "id": "4733",
+    "lon": "-118.0868",
+    "la": "34.1026",
+    "city": "San Gabriel",
+    "fname": "Yovanni",
+    "type": "2"
+}, {
+    "id": "3010",
+    "lon": "-118.0818",
+    "la": "34.0616",
+    "city": "Rosemead",
+    "fname": "Yi An",
+    "type": "2"
+}, {
+    "id": "3632",
+    "lon": "-117.904",
+    "la": "33.9782",
+    "city": "Rowland Heights",
+    "fname": "Dav",
+    "type": "2"
+}, {
+    "id": "3221",
+    "lon": "-117.8896",
+    "la": "34.0627",
+    "city": "West Covina",
+    "fname": "Yiling",
+    "type": "2"
+}, {
+    "id": "3212",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Christine",
+    "type": "2"
+}, {
+    "id": "3432",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Ryan",
+    "type": "2"
+}, {
+    "id": "3375",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Nelly",
+    "type": "2"
+}, {
+    "id": "2536",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Gabriel",
+    "type": "2"
+}, {
+    "id": "2489",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Kayla",
+    "type": "2"
+}, {
+    "id": "4598",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Connie",
+    "type": "2"
+}, {
+    "id": "4599",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Stephanie",
+    "type": "2"
+}, {
+    "id": "4481",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Kathleen",
+    "type": "2"
+}, {
+    "id": "4428",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Lacey Marianne",
+    "type": "2"
+}, {
+    "id": "3884",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Eric",
+    "type": "2"
+}, {
+    "id": "3958",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Misael",
+    "type": "2"
+}, {
+    "id": "5414",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Christina",
+    "type": "2"
+}, {
+    "id": "5609",
+    "lon": "-117.8289",
+    "la": "33.8031",
+    "city": "Orange",
+    "fname": "Stephanie",
+    "type": "2"
+}, {
+    "id": "3026",
+    "lon": "-117.8189",
+    "la": "33.9958",
+    "city": "Diamond Bar",
+    "fname": "Arthur",
+    "type": "2"
+}, {
+    "id": "3059",
+    "lon": "-117.8189",
+    "la": "33.9958",
+    "city": "Diamond Bar",
+    "fname": "Valerie",
+    "type": "2"
+}, {
+    "id": "3876",
+    "lon": "-117.7167",
+    "la": "49.1",
+    "city": "Trail",
+    "fname": "Angela",
+    "type": "2"
+}, {
+    "id": "2459",
+    "lon": "-117.6667",
+    "la": "49.3167",
+    "city": "Castlegar",
+    "fname": "Cameron",
+    "type": "2"
+}, {
+    "id": "1522",
+    "lon": "-117.6603",
+    "la": "34.1264",
+    "city": "Upland",
+    "fname": "Reynold",
+    "type": "2"
+}, {
+    "id": "3798",
+    "lon": "-117.6119",
+    "la": "33.6199",
+    "city": "Rancho Santa Margarita",
+    "fname": "Bryan",
+    "type": "2"
+}, {
+    "id": "1289",
+    "lon": "-117.2978",
+    "la": "34.1362",
+    "city": "San Bernardino",
+    "fname": "Ruth",
+    "type": "2"
+}, {
+    "id": "3475",
+    "lon": "-117.2772",
+    "la": "34.0144",
+    "city": "Colton",
+    "fname": "Stacy",
+    "type": "2"
+}, {
+    "id": "1455",
+    "lon": "-117.2402",
+    "la": "32.7368",
+    "city": "San Diego",
+    "fname": "Kalen",
+    "type": "2"
+}, {
+    "id": "1439",
+    "lon": "-117.2402",
+    "la": "32.7368",
+    "city": "San Diego",
+    "fname": "Misty",
+    "type": "2"
+}, {
+    "id": "3073",
+    "lon": "-117.2255",
+    "la": "33.2007",
+    "city": "Vista",
+    "fname": "Kacy",
+    "type": "2"
+}, {
+    "id": "2682",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Magaly",
+    "type": "2"
+}, {
+    "id": "2572",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "David",
+    "type": "2"
+}, {
+    "id": "2352",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Thomas",
+    "type": "2"
+}, {
+    "id": "3510",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Jaciel",
+    "type": "2"
+}, {
+    "id": "3741",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Nicholas",
+    "type": "2"
+}, {
+    "id": "3175",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Joshua",
+    "type": "2"
+}, {
+    "id": "1166",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Bruce",
+    "type": "2"
+}, {
+    "id": "1118",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Andrew",
+    "type": "2"
+}, {
+    "id": "608",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Norma",
+    "type": "2"
+}, {
+    "id": "3924",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Veronica",
+    "type": "2"
+}, {
+    "id": "3991",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Alma",
+    "type": "2"
+}, {
+    "id": "4120",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Zachary",
+    "type": "2"
+}, {
+    "id": "4145",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Christopher",
+    "type": "2"
+}, {
+    "id": "4409",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Romina",
+    "type": "2"
+}, {
+    "id": "4360",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Digby",
+    "type": "2"
+}, {
+    "id": "4764",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Carmalita",
+    "type": "2"
+}, {
+    "id": "4829",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Joshua",
+    "type": "2"
+}, {
+    "id": "4929",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Lew (Langton)",
+    "type": "2"
+}, {
+    "id": "5174",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Ridge",
+    "type": "2"
+}, {
+    "id": "5200",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Kaelem",
+    "type": "2"
+}, {
+    "id": "5255",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Siglinde",
+    "type": "2"
+}, {
+    "id": "5288",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Nicole",
+    "type": "2"
+}, {
+    "id": "5289",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Jameison",
+    "type": "2"
+}, {
+    "id": "5297",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Wayne",
+    "type": "2"
+}, {
+    "id": "5560",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Mariana",
+    "type": "2"
+}, {
+    "id": "5506",
+    "lon": "-117.1322",
+    "la": "32.7977",
+    "city": "San Diego",
+    "fname": "Aja",
+    "type": "2"
+}, {
+    "id": "367",
+    "lon": "-117.127",
+    "la": "32.9656",
+    "city": "San Diego",
+    "fname": "Arnold",
+    "type": "2"
+}, {
+    "id": "2710",
+    "lon": "-117.1266",
+    "la": "34.0008",
+    "city": "Redlands",
+    "fname": "Christi",
+    "type": "2"
+}, {
+    "id": "4304",
+    "lon": "-117.1266",
+    "la": "34.0008",
+    "city": "Redlands",
+    "fname": "Sheila",
+    "type": "2"
+}, {
+    "id": "3547",
+    "lon": "-117.1246",
+    "la": "33.0284",
+    "city": "San Diego",
+    "fname": "Tiffany",
+    "type": "2"
+}, {
+    "id": "2689",
+    "lon": "-117.1245",
+    "la": "33.5158",
+    "city": "Temecula",
+    "fname": "Anabel",
+    "type": "2"
+}, {
+    "id": "536",
+    "lon": "-117.0701",
+    "la": "32.7555",
+    "city": "San Diego",
+    "fname": "Jonathan",
+    "type": "2"
+}, {
+    "id": "2887",
+    "lon": "-117.0167",
+    "la": "32.5333",
+    "city": "Tijuana",
+    "fname": "Angelica",
+    "type": "2"
+}, {
+    "id": "2595",
+    "lon": "-117.0167",
+    "la": "32.5333",
+    "city": "Tijuana",
+    "fname": "Sarah",
+    "type": "2"
+}, {
+    "id": "3480",
+    "lon": "-117.0167",
+    "la": "32.5333",
+    "city": "Tijuana",
+    "fname": "Sarsha",
+    "type": "2"
+}, {
+    "id": "3430",
+    "lon": "-117.0167",
+    "la": "32.5333",
+    "city": "Tijuana",
+    "fname": "Carlos",
+    "type": "2"
+}, {
+    "id": "2901",
+    "lon": "-116.9671",
+    "la": "32.7952",
+    "city": "El Cajon",
+    "fname": "Janet",
+    "type": "2"
+}, {
+    "id": "5047",
+    "lon": "-116.2838",
+    "la": "43.632",
+    "city": "Boise",
+    "fname": "Jeremy",
+    "type": "2"
+}, {
+    "id": "3281",
+    "lon": "-116.1954",
+    "la": "43.5952",
+    "city": "Boise",
+    "fname": "Timothy",
+    "type": "2"
+}, {
+    "id": "363",
+    "lon": "-116.1387",
+    "la": "45.9035",
+    "city": "Grangeville",
+    "fname": "Keisha",
+    "type": "2"
+}, {
+    "id": "3295",
+    "lon": "-115.4683",
+    "la": "32.6519",
+    "city": "Mexicali",
+    "fname": "Ricardo",
+    "type": "2"
+}, {
+    "id": "3995",
+    "lon": "-115.4683",
+    "la": "32.6519",
+    "city": "Mexicali",
+    "fname": "Damaris",
+    "type": "2"
+}, {
+    "id": "1670",
+    "lon": "-115.3815",
+    "la": "36.0975",
+    "city": "Las Vegas",
+    "fname": "Linda",
+    "type": "2"
+}, {
+    "id": "2553",
+    "lon": "-115.2048",
+    "la": "36.1515",
+    "city": "Las Vegas",
+    "fname": "Lori",
+    "type": "2"
+}, {
+    "id": "5582",
+    "lon": "-115.2048",
+    "la": "36.1515",
+    "city": "Las Vegas",
+    "fname": "RD",
+    "type": "2"
+}, {
+    "id": "605",
+    "lon": "-115.1333",
+    "la": "36.2729",
+    "city": "North Las Vegas",
+    "fname": "Cassandra",
+    "type": "2"
+}, {
+    "id": "3004",
+    "lon": "-115.0249",
+    "la": "36.0328",
+    "city": "Henderson",
+    "fname": "Fernando",
+    "type": "2"
+}, {
+    "id": "3511",
+    "lon": "-114.5222",
+    "la": "32.7009",
+    "city": "Yuma",
+    "fname": "Kathy",
+    "type": "2"
+}, {
+    "id": "3815",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Keith",
+    "type": "2"
+}, {
+    "id": "2905",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Tracy",
+    "type": "2"
+}, {
+    "id": "794",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Ramona",
+    "type": "2"
+}, {
+    "id": "1531",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Dylan",
+    "type": "2"
+}, {
+    "id": "1095",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Sherry",
+    "type": "2"
+}, {
+    "id": "4394",
+    "lon": "-114.0833",
+    "la": "51.0833",
+    "city": "Calgary",
+    "fname": "Dennis",
+    "type": "2"
+}, {
+    "id": "302",
+    "lon": "-113.9556",
+    "la": "46.3478",
+    "city": "Corvallis",
+    "fname": "Jennifer",
+    "type": "2"
+}, {
+    "id": "532",
+    "lon": "-113.7833",
+    "la": "53.25",
+    "city": "Calmar",
+    "fname": "Maria Cecilia",
+    "type": "2"
+}, {
+    "id": "3799",
+    "lon": "-113.5",
+    "la": "53.55",
+    "city": "Edmonton",
+    "fname": "Jeri",
+    "type": "2"
+}, {
+    "id": "1007",
+    "lon": "-112.7",
+    "la": "51.4667",
+    "city": "Drumheller",
+    "fname": "Kam",
+    "type": "2"
+}, {
+    "id": "3419",
+    "lon": "-112.0839",
+    "la": "33.5222",
+    "city": "Phoenix",
+    "fname": "Judd",
+    "type": "2"
+}, {
+    "id": "5034",
+    "lon": "-112.0839",
+    "la": "33.5222",
+    "city": "Phoenix",
+    "fname": "Hayley",
+    "type": "2"
+}, {
+    "id": "3524",
+    "lon": "-112.0592",
+    "la": "41.1144",
+    "city": "Clearfield",
+    "fname": "Sarah",
+    "type": "2"
+}, {
+    "id": "845",
+    "lon": "-111.992",
+    "la": "41.2232",
+    "city": "Ogden",
+    "fname": "Brad",
+    "type": "2"
+}, {
+    "id": "3634",
+    "lon": "-111.9654",
+    "la": "33.2414",
+    "city": "Chandler",
+    "fname": "Aleksandr",
+    "type": "2"
+}, {
+    "id": "1012",
+    "lon": "-111.8787",
+    "la": "40.7242",
+    "city": "Salt Lake City",
+    "fname": "Jared",
+    "type": "2"
+}, {
+    "id": "1732",
+    "lon": "-111.8787",
+    "la": "40.7242",
+    "city": "Salt Lake City",
+    "fname": "Hsingfu (Jackson)",
+    "type": "2"
+}, {
+    "id": "2522",
+    "lon": "-111.8669",
+    "la": "33.5984",
+    "city": "Scottsdale",
+    "fname": "Tishana",
+    "type": "2"
+}, {
+    "id": "1795",
+    "lon": "-111.7467",
+    "la": "40.322",
+    "city": "Lindon",
+    "fname": "Jason",
+    "type": "2"
+}, {
+    "id": "905",
+    "lon": "-111.7075",
+    "la": "40.5037",
+    "city": "Alpine",
+    "fname": "Nick",
+    "type": "2"
+}, {
+    "id": "445",
+    "lon": "-111.1726",
+    "la": "34.1954",
+    "city": "Payson",
+    "fname": "Jennifer",
+    "type": "2"
+}, {
+    "id": "1569",
+    "lon": "-111.0809",
+    "la": "32.2572",
+    "city": "Tucson",
+    "fname": "Diane",
+    "type": "2"
+}, {
+    "id": "303",
+    "lon": "-109.9333",
+    "la": "27.4833",
+    "city": "Obregon",
+    "fname": "Debra",
+    "type": "2"
+}, {
+    "id": "3016",
+    "lon": "-109.7389",
+    "la": "48.5666",
+    "city": "Havre",
+    "fname": "Andrew",
+    "type": "2"
+}, {
+    "id": "2253",
+    "lon": "-108.5789",
+    "la": "45.7661",
+    "city": "Billings",
+    "fname": "Sheryl-Ann",
+    "type": "2"
+}, {
+    "id": "1770",
+    "lon": "-108.428",
+    "la": "39.0868",
+    "city": "Clifton",
+    "fname": "Marcus",
+    "type": "2"
+}, {
+    "id": "2977",
+    "lon": "-107.3897",
+    "la": "24.7994",
+    "city": "Culiacán",
+    "fname": "Kesia",
+    "type": "2"
+}, {
+    "id": "3607",
+    "lon": "-107.3897",
+    "la": "24.7994",
+    "city": "Culiacán",
+    "fname": "Graciela",
+    "type": "2"
+}, {
+    "id": "4333",
+    "lon": "-107.3897",
+    "la": "24.7994",
+    "city": "Culiacán",
+    "fname": "Genesis",
+    "type": "2"
+}, {
+    "id": "3117",
+    "lon": "-106.7454",
+    "la": "39.1556",
+    "city": "Aspen",
+    "fname": "Kerry",
+    "type": "2"
+}, {
+    "id": "3664",
+    "lon": "-106.6667",
+    "la": "52.1333",
+    "city": "Saskatoon",
+    "fname": "Trevor",
+    "type": "2"
+}, {
+    "id": "2973",
+    "lon": "-106.4877",
+    "la": "35.1404",
+    "city": "Albuquerque",
+    "fname": "Della",
+    "type": "2"
+}, {
+    "id": "3080",
+    "lon": "-106.4833",
+    "la": "31.7333",
+    "city": "Juarez",
+    "fname": "Vivissa",
+    "type": "2"
+}, {
+    "id": "2509",
+    "lon": "-106.4833",
+    "la": "31.7333",
+    "city": "Juarez",
+    "fname": "Karene",
+    "type": "2"
+}, {
+    "id": "2527",
+    "lon": "-106.4833",
+    "la": "31.7333",
+    "city": "Juarez",
+    "fname": "Michael",
+    "type": "2"
+}, {
+    "id": "3641",
+    "lon": "-106.4833",
+    "la": "31.7333",
+    "city": "Juarez",
+    "fname": "Taylor",
+    "type": "2"
+}]

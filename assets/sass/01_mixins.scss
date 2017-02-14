@@ -1,0 +1,238 @@
+$bbRed: #F2254C;
+$bbBlue: #2D6CA2;
+$bbGreen: #43A600;
+
+
+
+//
+// Box-sizing
+//
+@mixin box-sizing ( $box-sizing ) {
+  -webkit-box-sizing: $box-sizing;
+     -moz-box-sizing: $box-sizing;
+          box-sizing: $box-sizing;
+}
+//
+// clearfix
+//
+@mixin clearfix {
+  & {
+    zoom: 1;
+  }
+  &:after {
+    content: ".";
+    display: block;
+    clear: both;
+    height: 0;
+    overflow: hidden;
+    visibility: hidden;
+  }
+}
+@mixin clearself {
+  overflow: hidden;
+}
+//
+// font-family
+//
+@mixin number-font {
+  font-family: Helvetica, Arial, sans-serif;
+}
+@mixin font-size($sizeValue) {
+  font-size: ($sizeValue) + px;
+  line-height: ($sizeValue * 1.6) + px;
+}
+// border-radius
+//
+@mixin border-radius ( $radius ) {
+  @include background-clip-padding-box;
+  -webkit-border-radius: $radius;
+     -moz-border-radius: $radius;
+          border-radius: $radius;
+}
+@mixin border-top-radius ( $radius ) {
+  @include background-clip-padding-box;
+  -webkit-border-top-left-radius: $radius;
+     -moz-border-radius-topleft:  $radius;
+          border-top-left-radius: $radius;
+  -webkit-border-top-right-radius: $radius;
+     -moz-border-radius-topright:  $radius;
+          border-top-right-radius: $radius;
+}
+@mixin border-right-radius ( $radius ) {
+  @include background-clip-padding-box;
+  -webkit-border-top-right-radius: $radius;
+     -moz-border-radius-topright:  $radius;
+          border-top-right-radius: $radius;
+  -webkit-border-bottom-right-radius: $radius;
+     -moz-border-radius-bottomright:  $radius;
+          border-bottom-right-radius: $radius;
+}
+@mixin border-bottom-radius ( $radius ) {
+  @include background-clip-padding-box;
+  -webkit-border-bottom-left-radius: $radius;
+     -moz-border-radius-bottomleft:  $radius;
+          border-bottom-left-radius: $radius;
+  -webkit-border-bottom-right-radius: $radius;
+     -moz-border-radius-bottomright:  $radius;
+          border-bottom-right-radius: $radius;
+}
+@mixin border-left-radius ( $radius ) {
+  @include background-clip-padding-box;
+  -webkit-border-top-left-radius: $radius;
+     -moz-border-radius-topleft:  $radius;
+          border-top-left-radius: $radius;
+  -webkit-border-bottom-left-radius: $radius;
+     -moz-border-radius-bottomleft:  $radius;
+          border-bottom-left-radius: $radius;
+}
+@mixin background-clip-padding-box {
+  -webkit-background-clip: padding-box;
+     -moz-background-clip: padding;
+          background-clip: padding-box;
+}
+//
+// box-shadow
+//
+@mixin box-shadow ( $value, $value2: '' ) {
+  @if $value2 == '' {
+  -webkit-box-shadow: $value;
+     -moz-box-shadow: $value;
+          box-shadow: $value;
+  } @else {
+  -webkit-box-shadow: $value, $value2;
+     -moz-box-shadow: $value, $value2;
+          box-shadow: $value, $value2;
+  }
+}
+@mixin transition ( $value ) {
+  -webkit-transition: $value;
+     -moz-transition: $value;
+       -o-transition: $value;
+          transition: $value;
+}
+//
+// background-gradient
+//
+@mixin background-gradient ( $start, $end ) {
+  background-color: ( $start + $end ) / 2;
+  background-image: -webkit-gradient(linear, left top, left bottom, from($start), to($end));
+  background-image: -webkit-linear-gradient(top, $start, $end);
+  background-image:    -moz-linear-gradient(top, $start, $end);
+  background-image:     -ms-linear-gradient(top, $start, $end);
+  background-image:      -o-linear-gradient(top, $start, $end);
+  background-image:         linear-gradient(top bottom, $start, $end);
+  filter: progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr='#{$start}', endColorstr='#{$end}');
+  -ms-filter:"progid:DXImageTransform.Microsoft.gradient(startColorstr='#{$start}', endColorstr='#{$end}')";
+}
+@mixin background-alpha-gradient ( $start, $end, $solid ) {
+  background: $solid;
+  background: -webkit-gradient(linear, left top, left bottom, from($start), to($end));
+  background: -webkit-linear-gradient(top, $start, $end);
+  background:    -moz-linear-gradient(top, $start, $end);
+  background:     -ms-linear-gradient(top, $start, $end);
+  background:      -o-linear-gradient(top, $start, $end);
+  background:         linear-gradient(top bottom, $start, $end);
+}
+@mixin background-alpha-horizontal-gradient ( $start, $end, $solid ) {
+  background: $solid;
+  background: -webkit-gradient(linear, left top, right top, from($start), to($end));
+  background: -webkit-linear-gradient(left, $start, $end);
+  background:    -moz-linear-gradient(left, $start, $end);
+  background:     -ms-linear-gradient(left, $start, $end);
+  background:      -o-linear-gradient(left, $start, $end);
+  background:         linear-gradient(left right, $start, $end);
+}
+//
+// columns
+//
+@mixin column-count ( $columns ) {
+  -webkit-column-count: $columns;
+     -moz-column-count: $columns;
+          column-count: $columns;
+}
+@mixin column-gap ( $value ) {
+  -webkit-column-gap: $value;
+     -moz-column-gap: $value;
+          column-gap: $value;
+}
+//
+// Opacity
+//
+@mixin opacity ( $value ) {
+  opacity: $value;
+  filter: unquote("progid:DXImageTransform.Microsoft.Alpha(Opacity=#{round($value * 100)})");
+}
+//
+// other minins by yougi
+//
+@mixin one-line {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+@mixin inline-block {
+  display: inline-block;
+  vertical-align: middle;
+  zoom: 1;
+}
+@mixin font-small($i) {
+  font-size: $i + px;
+  font-size-adjust: none;
+}
+@mixin user-select {
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+@mixin align-pic {
+    & {
+        display:table;
+        table-layout:fixed;
+        overflow:hidden;
+    }
+    .align{
+        width:100%;
+        height:100%;
+        display:table-cell;
+        vertical-align:middle;
+        text-align:center;
+        span{
+            *height:100%;
+            *display:inline-block;
+            *vertical-align:middle;
+        }
+        img{
+            vertical-align:middle;
+        }
+    }
+}
+@mixin light-box-setting($width, $height, $position) {
+  top: 50%;
+  left: 50%;
+  width: $width - 30;
+  height: $height - 30;
+  margin-left: ($width - 30)/2 * -1;
+  margin-top: ($height - 30)/2 * -1;
+  position: $position;
+}
+@mixin setMediaQueries($media) {
+  @if $media == pc {
+    @media only screen and (min-width: 1024px) { @content; }
+  }
+  @else if $media == pad_h {
+    @media only screen and (min-width: 991px) and (max-width: 1023px)  { @content; }
+  }
+  @else if $media == pad_v {
+    @media only screen and (min-width: 768px) and (max-width: 991px) { @content; }
+  }
+  @else if $media == phone {
+    @media only screen and (min-width: 0px) and (max-width: 767px) { @content; }
+  }
+}
+
+@mixin buttonPressShadow  {
+  webkit-box-shadow: inset 3px 3px 2px 0px rgba(0,0,0,0.1);
+  -moz-box-shadow: inset 3px 3px 2px 0px rgba(0,0,0,0.1);
+  box-shadow: inset 3px 3px 2px 0px rgba(0,0,0,0.1);
+}
