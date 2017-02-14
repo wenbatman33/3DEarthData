@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>node.js Socket.IO</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="/socket.io/socket.io.js"> </script>
+<script src="js/jquery.js"></script>
+<script src="js/page_01.js"></script>
+<style type="text/css">
+html{
+	height:100%;
+	width:100%;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+}
+body {
+	margin: 0;
+	background:#92CBDE;
+}
+#main{
+	position:relative;
+	margin: 0 auto;
+	display: block;
+	overflow : hidden;
+	width: 960px;
+	height: 600px;
+}
+#myItem{
+	width: 1009px;
+	height: 185px;
+	display: block;
+	position: absolute;
+	top: 40%;
+	background:url(images/TugofWar_1.png) no-repeat;
+}
+#TugofWar_2{
+	width:1010px;
+	height:300px;
+	display: block;
+	position: absolute;
+	left: 0;
+	top: 30%;
+	background:url(images/TugofWar_2.png) no-repeat;
+}
+#winner{
+	position: absolute;
+	width: 100%;
+	bottom: 40px;
+	text-align: center;
+	color: #fff;
+	font-size: 26px;
+}
+</style>
+</head>
+
+<body>
+<div id='main'>
+	<div id="output"></div>
+    <div id="TugofWar_2"></div>
+	<div id='myItem'></div>
+	<div id='winner'></div>
+</div>
+</body>
+</html>

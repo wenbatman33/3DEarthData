@@ -1,0 +1,85 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>node.js Socket.IO</title>
+ <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no"> 
+<script src="/socket.io/socket.io.js"> </script>
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css">
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.js"></script>
+<script src="js/page_02.js"></script>
+<style type="text/css">
+html{
+	height:100%;
+	width:100%;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-o-user-select: none;
+	user-select: none;
+	background:#92CBDE;
+}
+body {
+	margin: 0;
+	background:#92CBDE;
+}
+#main{
+	position: absolute;
+	display: inline-block;
+	overflow : hidden;
+	width: 100%;
+	height:100%;
+	background:#92CBDE;
+}
+#info{
+	position: absolute;
+	bottom: 40px;
+	width: 100%;
+	display: inline-block;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #36bcf1;
+	border-radius: 4px;
+	background-color: rgba(255, 255, 255, .7);
+	height: 46px;
+	line-height: 46px;
+	color: #36bcf1;
+	text-decoration: none;
+	margin: 20px 0px 20px 0px;
+	min-width: 60px;
+	text-align: center;
+	font-size: 20px
+}
+#Tug_l{
+	position:relative;
+	display:block;
+	width:107px;
+	height: 162px;
+	margin:80px auto;
+	display:none;
+	background:url(images/Tug_l.png) no-repeat;
+	
+}
+#Tug_r{
+	position:relative;
+	display:block;
+	width:107px;
+	height: 162px;
+	margin:80px auto;
+	display:none;
+	background:url(images/Tug_r.png) no-repeat;
+}
+
+</style>
+</head>
+
+<body>
+<div id='main'>
+	<div id="output"></div>
+	<div id='Tug_l'></div>
+	<div id='Tug_r'></div>
+	<div id='info'>請在畫面上左右滑動</div>
+</div>
+</body>
+</html>
