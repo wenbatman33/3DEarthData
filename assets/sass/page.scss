@@ -5,6 +5,7 @@ html{
   background: #000;
 }
 body{
+  width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -17,6 +18,51 @@ canvas{
   background: transparent;
   position: absolute;
 }
+.dataInfo{
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+  color: #fff;
+  padding: 10px;
+  pointer-events: none;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+  text-align: left;
+
+  #city{
+    font-size: 80px;
+    //margin-top: 10px;
+    line-height: 1;
+    text-align: center;
+    -moz-opacity: 0.8;
+    opacity: 0.8;
+    text-shadow: 0px 0px 10px #fff;
+  }
+  #fname{
+    font-size: 60px;
+    line-height: 1;
+    text-align: center;
+    margin-top: 10px;
+    -moz-opacity: 0.9;
+    opacity: 0.9;
+    text-shadow: 0px 0px 6px #fff;
+  }
+  #SiriWave{
+    position: relative;
+    margin: 0 auto;
+    margin-top: 80px;
+    width: 320px;
+    height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    //border-top: 1px solid rgba(255,255,255,0.3);
+    //border-bottom: 1px solid rgba(255,255,255,0.3);
+    canvas{
+      position: relative;
+    }
+  }
+}
+
 @keyframes in{
   from {
     opacity: 0;
@@ -32,6 +78,8 @@ canvas{
 }
 #container{
   position: absolute;
+  width: 100%;
+  height: 100vh;
   top: 0;
 }
 .test{
@@ -44,5 +92,107 @@ canvas{
   input{
     color: red;
 
+  }
+}
+#header{
+  position: relative;
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  border-bottom: 1px solid #333;
+  background: #000;
+  z-index: 10;
+  #logo{
+    margin: 5px;
+  }
+}
+.debug{
+  position: absolute;
+  color: #fff;
+  z-index: 9999999;
+  width: 100%;
+  padding: 8px;
+  button{
+    -webkit-appearance: none;
+    outline:0;
+    border: none;
+    border: 1px solid #666;
+    color: #999;
+    background: #000;
+    height: 30px;
+    padding: 5px 10px;
+    margin: 1px;
+    font-size: 11px;
+    &:hover{
+      border: 1px solid #fff;
+      color: #ffffff;
+    }
+  }
+  .buttons{
+    display: inline-block;
+    width: 50%;
+    text-align: left;
+    @include setMediaQueries(phone){
+      width: 100%;
+      text-align: left;
+    }
+    @include setMediaQueries(pad_h){
+      width: 100%;
+      text-align: left;
+    }
+  }
+
+  .status{
+    .timer{
+      color: #888888;
+      font-size: 12px;
+      line-height: 10px;
+      text-align: right;
+      @include setMediaQueries(phone){
+        margin-top: 8px;
+        padding-left: 5px;
+        text-align: left;
+      }
+      @include setMediaQueries(pad_h){
+        margin-top: 8px;
+        padding-left: 5px;
+        text-align: left;
+      }
+    }
+    width: 50%;
+    float: right;
+    height: 30px;
+    line-height: 30px;
+    text-align: right;
+    @include setMediaQueries(phone){
+      width: 100%;
+      text-align: left;
+    }
+    @include setMediaQueries(pad_h){
+      width: 100%;
+      text-align: left;
+    }
+    span{
+      font-size: 10px;
+      margin: 5px;
+    }
+    .Consultant{
+      color: #fff;
+    }
+    .TutorABC{
+      color: #449bcb;
+    }
+    .vipabc{
+      color: #f3ab3d;
+    }
+    .TutorABCJr{
+      color: #99bf3c;
+    }
+    .vipabcJr{
+      color: #d153f8;
+    }
+    .TutorMing{
+      color: #8d1a11;
+    }
   }
 }

@@ -1208,7 +1208,6 @@ TWEEN.Tween = function (object) {
 
 
 TWEEN.Easing = {
-
   Linear: {
 
     None: function (k) {

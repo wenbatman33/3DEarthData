@@ -299,9 +299,9 @@ video {
   background-color: #337ab7;
   -webkit-box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
   box-shadow: inset 0 -1px 0 rgba(0, 0, 0, 0.15);
-  -webkit-transition: width 0.6s ease;
-  -o-transition: width 0.6s ease;
-  transition: width 0.6s ease;
+  -webkit-transition: width .6s ease;
+  -o-transition: width .6s ease;
+  transition: width .6s ease;
 }
 
 .movMODAL .inner .scrollFrame, .Dialog .inner .scrollFrame, .MODAL .inner .scrollFrame, .scrollDialog .inner .scrollFrame {
@@ -476,6 +476,7 @@ html {
 }
 
 body {
+  width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
@@ -488,6 +489,51 @@ canvas {
   animation: in 2s cubic-bezier(0.23, 1, 0.32, 1) 0.25s backwards;
   background: transparent;
   position: absolute;
+}
+
+.dataInfo {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+  color: #fff;
+  padding: 10px;
+  pointer-events: none;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica;
+  text-align: left;
+}
+
+.dataInfo #city {
+  font-size: 80px;
+  line-height: 1;
+  text-align: center;
+  -moz-opacity: 0.8;
+  opacity: 0.8;
+  text-shadow: 0px 0px 10px #fff;
+}
+
+.dataInfo #fname {
+  font-size: 60px;
+  line-height: 1;
+  text-align: center;
+  margin-top: 10px;
+  -moz-opacity: 0.9;
+  opacity: 0.9;
+  text-shadow: 0px 0px 6px #fff;
+}
+
+.dataInfo #SiriWave {
+  position: relative;
+  margin: 0 auto;
+  margin-top: 80px;
+  width: 320px;
+  height: 120px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.dataInfo #SiriWave canvas {
+  position: relative;
 }
 
 @keyframes in {
@@ -506,6 +552,8 @@ canvas {
 
 #container {
   position: absolute;
+  width: 100%;
+  height: 100vh;
   top: 0;
 }
 
@@ -520,4 +568,138 @@ canvas {
 
 .test input {
   color: red;
+}
+
+#header {
+  position: relative;
+  width: 100%;
+  height: 50px;
+  text-align: right;
+  border-bottom: 1px solid #333;
+  background: #000;
+  z-index: 10;
+}
+
+#header #logo {
+  margin: 5px;
+}
+
+.debug {
+  position: absolute;
+  color: #fff;
+  z-index: 9999999;
+  width: 100%;
+  padding: 8px;
+}
+
+.debug button {
+  -webkit-appearance: none;
+  outline: 0;
+  border: none;
+  border: 1px solid #666;
+  color: #999;
+  background: #000;
+  height: 30px;
+  padding: 5px 10px;
+  margin: 1px;
+  font-size: 11px;
+}
+
+.debug button:hover {
+  border: 1px solid #fff;
+  color: #ffffff;
+}
+
+.debug .buttons {
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .debug .buttons {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1023px) {
+  .debug .buttons {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.debug .status {
+  width: 50%;
+  float: right;
+  height: 30px;
+  line-height: 30px;
+  text-align: right;
+}
+
+.debug .status .timer {
+  color: #888888;
+  font-size: 12px;
+  line-height: 10px;
+  text-align: right;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .debug .status .timer {
+    margin-top: 8px;
+    padding-left: 5px;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1023px) {
+  .debug .status .timer {
+    margin-top: 8px;
+    padding-left: 5px;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+  .debug .status {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1023px) {
+  .debug .status {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+.debug .status span {
+  font-size: 10px;
+  margin: 5px;
+}
+
+.debug .status .Consultant {
+  color: #fff;
+}
+
+.debug .status .TutorABC {
+  color: #449bcb;
+}
+
+.debug .status .vipabc {
+  color: #f3ab3d;
+}
+
+.debug .status .TutorABCJr {
+  color: #99bf3c;
+}
+
+.debug .status .vipabcJr {
+  color: #d153f8;
+}
+
+.debug .status .TutorMing {
+  color: #8d1a11;
 }

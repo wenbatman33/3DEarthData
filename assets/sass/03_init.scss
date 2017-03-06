@@ -11,7 +11,7 @@ html, body{
 	background: #fff;
 	font-family: 'Heiti TC', 'Microsoft JhengHei','Arial Unicode MS', Arial, Helvetica, sans-serif;
 	-webkit-overflow-scrolling: touch;
-	will-change: transform, opacity; 
+	will-change: transform, opacity;
 	-webkit-touch-callout: none;
     -webkit-user-select: none;
     -khtml-user-select: none;
@@ -138,7 +138,7 @@ video {
 	-o-transform: translateY(0);
 	transform: translateY(0);
 }
-.movMODAL,.Dialog,.MODAL,.scrollDialog{ 
+.movMODAL,.Dialog,.MODAL,.scrollDialog{
 	.inner{
 		// position: relative;
 		// top: 50%;
