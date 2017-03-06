@@ -19,9 +19,9 @@ $('.timer').html("World Map Last Updated "+years+"/"+months+"/"+days+" "+hours+"
 // var API_point = "___data/consultant_point.json";
 // var API_line = "___data/consultantLine.json";
 // var API_line = "___data/consultantLine.json";
-var API_point = "___data/consultant_info/"+hours+".txt";
-var API_point_2 = "___data/client_data/"+hours+".txt";
-var API_line ="___data/consultantLine.json";
+var API_point = "assets/___data/consultant_info/"+hours+".txt";
+var API_point_2 = "assets/___data/client_data/"+hours+".txt";
+var API_line ="assets/___data/consultantLine.json";
 
 function detectmob() {
  if( navigator.userAgent.match(/Android/i)
